@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rachanpadmanabha.github.io/weekdayy-job-board-clone/static/css/main.70c60491.css",
+    "main.js": "/rachanpadmanabha.github.io/weekdayy-job-board-clone/static/js/main.84b253a3.js",
+    "static/media/sand-clock.svg": "/rachanpadmanabha.github.io/weekdayy-job-board-clone/static/media/sand-clock.a1f25a419b8d31685d028b258a2d1ce3.svg",
+    "index.html": "/rachanpadmanabha.github.io/weekdayy-job-board-clone/index.html",
+    "main.70c60491.css.map": "/rachanpadmanabha.github.io/weekdayy-job-board-clone/static/css/main.70c60491.css.map",
+    "main.84b253a3.js.map": "/rachanpadmanabha.github.io/weekdayy-job-board-clone/static/js/main.84b253a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c60491.css",
+    "static/js/main.84b253a3.js"
+  ]
+}
